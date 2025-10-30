@@ -1,4 +1,5 @@
 # ECS Mountpoint-S3项目
+项目失败，调试中。具体成功实现,见 docs/ecs_asg.md
 
 ## 项目概述
 在ECS容器中使用AWS官方Mountpoint-S3实现高性能S3文件系统挂载，提供Flask API接口访问S3存储桶文件。
